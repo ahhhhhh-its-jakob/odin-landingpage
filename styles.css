@@ -1,4 +1,36 @@
 body{
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    align-items: center;
+    padding: 20px 60px;
+}
+
+.header-logo{
+    font-size: 24px;
+    margin-right: auto;
+    font-weight: bold;
+}
+
+.header-links{
+    font-size: 18px;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style-type: none;
+    margin-left: 24px;
+}
+
+a{
+    color: #E5E7EB;
+    text-decoration: none;
 }
