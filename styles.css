@@ -174,7 +174,7 @@ p{
     align-items: center;
     border-radius: 6px;
     padding: 36px 80px;
-    gap: 200px;
+    width: 70%;
 }
 
 .signup button{
@@ -182,6 +182,7 @@ p{
     border-color: #F9FAF8;
     border-width: 2px;
     padding: 6px 20px;
+    margin-left: auto;
 }
 .signup-info{
     color:#F9FAF8;
