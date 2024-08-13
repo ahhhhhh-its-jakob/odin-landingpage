@@ -66,12 +66,13 @@ img{
 }
 
 .img-container img{
-    min-width: 300px;
+    width: 800px;
 }
 
 .hero-info p{
     font-size: 18px;
     color:#E5E7EB;
+    padding-bottom: 12px;
 }
 
 button{
